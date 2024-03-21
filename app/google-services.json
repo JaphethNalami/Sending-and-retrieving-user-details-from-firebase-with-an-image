@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445320048804",
+    "project_id": "peak-comfort-402308",
+    "storage_bucket": "peak-comfort-402308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445320048804:android:aabec8ea931d342aacf631",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGY7mBRLM5DIll9plRCwVPgrGgO7Xjxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
